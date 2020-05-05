@@ -40,5 +40,5 @@ def test_auth(client):
     assert token is not None
 
 
-def test_assert(self):
+def test_assert():
     assert False
